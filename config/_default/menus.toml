@@ -5,32 +5,74 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Articles + more"
   url = "#posts"
-  weight = 20
+  weight = 250
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Course Schedule"
+  url = "#content"
   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  [[main]]
+    name = "Course Content"
+    identifier = "content-parent"
+    url = ""
+    weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+    [[main]]
+      name = "Session 1"
+      parent = "content-parent"
+      url = "session1/"
+      weight = 50
+
+      [[main]]
+        name = "Session 2"
+        parent = "content-parent"
+        url = "session2/"
+        weight = 60
+
+        [[main]]
+          name = "Session 3"
+          parent = "content-parent"
+          url = "session3/"
+          weight = 70
+
+          [[main]]
+            name = "Session 4"
+            parent = "content-parent"
+            url = "session4/"
+            weight = 80
+
+            [[main]]
+              name = "Session 5"
+              parent = "content-parent"
+              url = "session5/"
+              weight = 90
+
+              [[main]]
+                name = "Session 6"
+                parent = "content-parent"
+                url = "session6/"
+                weight = 100
+
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#weight = 40*/
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+   name = "Course Outline"
+url = "files/MFIN841_CourseOutline.pdf"
+   weight = 200
