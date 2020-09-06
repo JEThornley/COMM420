@@ -56,7 +56,7 @@ At the end of this week, you will be able to:
 1. Describe the impact of high frequency trading in stock markets. 
 1. Identify the differences between algorithmic trading and high frequency trading.  
 1. Understand how execution benchmarks are constructed. 
-</br>
+</br></br>
 <h2>Preview of Activities</h2>
 <h3>Activity 4:  The Case of Knight Capital</h3>
 In this activity, you will read a real case study of a high frequency trader and be asked to apply your learning about computerized trading to evaluate the moves that Knight Capital made and how the company could have better solved their problems.
@@ -71,7 +71,7 @@ The computerization of the order flow that began in the early 1970s paved the wa
  
 Algorithmic trading encompasses a range of trading activities, one of which is high-frequency trading. Review the diagram below which depicts this relationship.
 
-<img class="" src="Algotrading.png" />
+<a href="Algotrading.png" target="_blank"><img class="" src="Algotrading.png" /></a>
 
 </br></br>
 <h2>High-Frequency Trading</h2>
