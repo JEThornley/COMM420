@@ -34,7 +34,7 @@ date_format = "January 2, 2006"
   url = "session2/"
   date_start = "2020-09-13"
   date_end = "2020-09-19"
-  description = "We'll explore the need for trade and financial markets, the roles and functions of a floor market and the operations of a limit order book. </br> *Deliverable: quiz*"
+  description = "We'll explore the need for trade and financial markets, the roles and functions of a floor market and the operations of a limit order book. </br></br> *Deliverable: quiz*"
   
   [[item]]
   organization = "Session 3"
@@ -43,7 +43,7 @@ date_format = "January 2, 2006"
   url = "session3/"
   date_start = "2020-09-20"
   date_end = "2020-09-26"
-  description = "We'll explore the evolution of market technology, the importance of speed in trading and methods for assessing the quality of an electronic market. </br> *Deliverable: quiz*"
+  description = "We'll explore the evolution of market technology, the importance of speed in trading and methods for assessing the quality of an electronic market. </br></br> *Deliverable: quiz*"
   
   [[item]]
   organization = "Session 4"
@@ -52,7 +52,7 @@ date_format = "January 2, 2006"
   url = "session4/"
   date_start = "2020-09-27"
   date_end = "2020-10-03"
-  description = "We'll explore the impacts of algorithmic and high-frequency trading on markets and the construction of execution benchmarks. </br> *Deliverables: ECN Millennials Case, quiz*"
+  description = "We'll explore the impacts of algorithmic and high-frequency trading on markets and the construction of execution benchmarks. </br></br> *Deliverables: ECN Millennials Case, quiz*"
   
   [[item]]
   organization = "Session 5"
@@ -61,7 +61,7 @@ date_format = "January 2, 2006"
   url = "session5/"
   date_start = "2020-10-04"
   date_end = "2020-10-10"
-  description = "We'll explore speed bumps, dark markets and the current discourse of each. </br> *Deliverable: quiz*"
+  description = "We'll explore speed bumps, dark markets and the current discourse of each. </br></br> *Deliverable: quiz*"
   
 
   
