@@ -118,4 +118,5 @@ RCM Alternatives. (2018, June 28). [Know Your Benchmark](https://www.rcmalternat
 </br></br>
 
 <h2>Deliverables</h2>
-1. Weekly quiz. The following quiz will count towards your participation score. Ensure you have completed the mandatory readings prior to beginning the quiz (as their content will be tested). You have until the beginning of next week's lecture to complete the quiz. 
+1. <h3>Weekly quiz. </h3>
+The following quiz will count towards your participation score. Ensure you have completed the mandatory readings prior to beginning the quiz (as their content will be tested). You have until the beginning of next week's lecture to complete the quiz. 
