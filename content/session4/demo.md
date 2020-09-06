@@ -115,8 +115,4 @@ Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Saf
 1. <h4>Know Your Benchmark</h4> 
 RCM Alternatives. (2018, June 28). [Know Your Benchmark](https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/). Retrieved August 07, 2020, from https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/
 
-</br></br>
-
-<h2>Deliverables</h2>
-1. <h3>Weekly quiz. </h3>
-The following quiz will count towards your participation score. Ensure you have completed the mandatory readings prior to beginning the quiz (as their content will be tested). You have until the beginning of next week's lecture to complete the quiz. 
+</br>
