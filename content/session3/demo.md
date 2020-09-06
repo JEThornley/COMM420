@@ -49,6 +49,10 @@ subtitle = "Evolution of Market Technology & Evaluating Market Quality"
  # CSS class.
  css_class = ""
 +++
+After completing the weekly section, you will be able to:
+1. Illustrate the evolution of market technology 
+1. Identify the importance of speed in trading 
+1. Assess the quality of an electronic market 
 
 
 
