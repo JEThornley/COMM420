@@ -94,8 +94,8 @@ U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure L
 <p>As you read through the articles below, think about how computerized trading has changed the trading landscape. 
 </p>
 
-1. <h4>Getting Up to Speed on High-Frequency Trading</h4> FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading](https://www.finra.org/investors/insights/getting-speed-high-frequency-trading). Retrieved on July 30, 2020 from https://www.finra.org/investors/insights/getting-speed-high-frequency-trading
- 
+1. <h4>Getting Up to Speed on High-Frequency Trading</h4> 
+FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading](https://www.finra.org/investors/insights/getting-speed-high-frequency-trading). Retrieved on July 30, 2020 from https://www.finra.org/investors/insights/getting-speed-high-frequency-trading
 1. <h4>Equity Market Structure Literature Review Part II: High Frequency Trading</h4>
 **Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
 1. <h4>Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?</h4>
