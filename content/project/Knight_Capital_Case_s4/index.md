@@ -1,7 +1,7 @@
 ---
 title: High Speed Trouble - Knight Capital (Case Study)
 author: Smith School of Business, Queen's University 
-summary: Rapid progress in high-speed trading during the past three decades has created new companies with opportunistic business models, made markets more efficient...</br> *Due: Prior to the start of Session 6*.
+summary: Rapid progress in high-speed trading during the past three decades has created new companies with opportunistic business models, made markets more efficient... *Due: Prior to the start of Session 6*.
 tags:
 - session4
 - casestudy
