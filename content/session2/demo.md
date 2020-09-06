@@ -51,6 +51,11 @@ subtitle = ""
 +++
 
 After completing the weekly section, you will be able to:
-1. understand the need for trading and markets
-1. analyze the difference between traditional and financial markets
+1. Understand the need for trading and markets
+1. Analyze the difference between traditional and financial markets
+1. Explain the functions and roles in a floor market
+1. Compare and contrast a floor auction and a limit order book auction
+1. Construct and explain the operations of a limit order book  
+1. Calculate execution prices
+
 

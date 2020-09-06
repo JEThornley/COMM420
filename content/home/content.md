@@ -34,7 +34,7 @@ date_format = "January 2, 2006"
   url = "session2/"
   date_start = "2020-09-13"
   date_end = "2020-09-19"
-  description = "[Description, deliverables]."
+  description = "We'll explore the need for trade and financial markets, the roles and functions of a floor market and the operations of a limit order book. </br> Deliverable: quiz"
   
   [[item]]
   organization = "Session 3"
