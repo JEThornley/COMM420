@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Course Information"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Instructor"
+  description = "Dr. Ryan Riordan </br> [ryanriordan.ca](https://ryanriordan.ca/)"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "calendar-alt"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Course details"
+  description = "[Day of the week, time, link to video portal?]"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "envelope"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Contacting me"
+  description = "[ryanriordan@queensu.ca](mailto:ryanriordan@queensu.ca)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
