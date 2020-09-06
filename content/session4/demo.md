@@ -56,21 +56,41 @@ At the end of this week, you will be able to:
 1. Describe the impact of high frequency trading in stock markets. 
 1. Identify the differences between algorithmic trading and high frequency trading.  
 1. Understand how execution benchmarks are constructed. 
-
+</br>
 <h2>Preview of Activities</h2>
 <h3>Activity 4:  The Case of Knight Capital</h3>
 In this activity, you will read a real case study of a high frequency trader and be asked to apply your learning about computerized trading to evaluate the moves that Knight Capital made and how the company could have better solved their problems.
 
 <h3>Quiz</h3>
 A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
-
-<h2>Algorithmic Trading</h2>
+</br>
+<h2>Algorithmic Trading & High-Frequency Trading</h2>
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
 
-<img class="" src="Algotrading.png" />
-![Algo-Trading Diagram](assets/images/Algotrading.png)
+The computerization of the order flow that began in the early 1970s paved the way for modern algorithmic trading practices. Algorithmic trading relies on computer programs with predefined criteria (often proprietary algorithms) to automatically execute trades. For example, algorithmic trading is often applied by institutional investors whose large orders would cause excessive price impact if executed entirely at once. To avoid price impact to the market, large order execution algorithms are used to slice the single large order into many smaller orders that are sent to the market over time (SEC, 2014, pg. 5).
+ 
+Algorithmic trading encompasses a range of trading activities, one of which is high-frequency trading. Review the diagram below which depicts this relationship.
 
-<h3>Mandatory Readings</h3>
+<img class="" src="Algotrading.png" />
+
+</br>
+<h2>High-Frequency Trading</h2>
+
+High-frequency traders use powerful computing technology to quickly process a high number of trades, often applying complex algorithms to trade across several markets simultaneously. In 2010, the SEC identified five characteristics that are frequently associated with high-frequency trading:
+1. Use of extraordinarily high speed and sophisticated programs for generating, routing, and executing orders.
+1. Use of co-location services and individual data feeds offered by exchanges and others to minimize network and other latencies.
+1. Very short time-frames for establishing and liquidating positions.
+1. Submission of numerous orders that are cancelled shortly after submission.
+1. Ending the trading day in as close to a flat position as possible (that is, not carrying significant, unhedged positions overnight).” [(SEC, 2014, pg. 4)](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
+ 
+High-frequency trading made notable headlines in 2010 when it was suspected to have been the driver of a “flash crash” that occurred on May 6, 2010; during the crash, a number of stock indices including the S&P 500 and the Dow Jones Industrial Average collapsed and rebounded within the span of 36 minutes. Within the 2010 Concept Release, the SEC acknowledged that HFT was one of the most significant market structure developments of the period, and that “[b]y any measure, HFT is a dominant component of the current market structure and likely to affect nearly all aspects of its performance.” [(SEC, 2010, pg. 3606)]((https://www.sec.gov/rules/concept/2010/34-61358fr.pdf))
+
+**References**
+U.S. Securities and Exchange Commission (SEC). (2010). Concept Release on Equity Market Structure; Proposed Rule. Federal Register / Vol. 75, No. 13. Retrieved on August 6, 2020 from [https://www.sec.gov/rules/concept/2010/34-61358fr.pdf](https://www.sec.gov/rules/concept/2010/34-61358fr.pdf) 
+ 
+U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
+
+<h3>AT & HFT: Mandatory Readings</h3>
 <p>As you read through the articles below, think about how computerized trading has changed the trading landscape. 
 </p>
 
@@ -81,5 +101,5 @@ A link to the quiz will be provided by the instructor. This assessment will coun
 1. <h4>Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?</h4>
 Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?](https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf) Retrieved on July 30, 2020 from https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf
 
+</br>
 
-<h2>High-Frequency Trading</h2>
