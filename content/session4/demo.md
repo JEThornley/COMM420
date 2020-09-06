@@ -63,7 +63,7 @@ In this activity, you will read a real case study of a high frequency trader and
 
 <h3>Quiz</h3>
 A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
-</br>
+</br></br>
 <h2>Algorithmic Trading</h2>
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
 
@@ -73,7 +73,7 @@ Algorithmic trading encompasses a range of trading activities, one of which is h
 
 <img class="" src="Algotrading.png" />
 
-</br>
+</br></br>
 <h2>High-Frequency Trading</h2>
 
 High-frequency traders use powerful computing technology to quickly process a high number of trades, often applying complex algorithms to trade across several markets simultaneously. In 2010, the SEC identified five characteristics that are frequently associated with high-frequency trading:
