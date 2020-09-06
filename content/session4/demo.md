@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Session 4"
-subtitle = "High-Frequency Trading & Algorithmic Trading"
+subtitle = "Algorithmic Trading & High-Frequency Trading"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -64,7 +64,7 @@ In this activity, you will read a real case study of a high frequency trader and
 <h3>Quiz</h3>
 A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
 </br>
-<h2>Algorithmic Trading & High-Frequency Trading</h2>
+<h2>Algorithmic Trading</h2>
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
 
 The computerization of the order flow that began in the early 1970s paved the way for modern algorithmic trading practices. Algorithmic trading relies on computer programs with predefined criteria (often proprietary algorithms) to automatically execute trades. For example, algorithmic trading is often applied by institutional investors whose large orders would cause excessive price impact if executed entirely at once. To avoid price impact to the market, large order execution algorithms are used to slice the single large order into many smaller orders that are sent to the market over time (SEC, 2014, pg. 5).
