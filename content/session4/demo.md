@@ -63,6 +63,9 @@ In this activity, you will read a real case study of a high frequency trader and
 
 <h3>Quiz</h3>
 A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
+
+
+
 </br></br>
 <h2>Algorithmic Trading</h2>
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
@@ -91,7 +94,7 @@ U.S. Securities and Exchange Commission (SEC). (2010). Concept Release on Equity
 U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
 
 <h3>AT & HFT: Mandatory Readings</h3>
-<p>As you read through the articles below, think about how computerized trading has changed the trading landscape. 
+<p>As you read through the articles below, consider how computerized trading has changed the trading landscape. 
 </p>
 
 1. <h4>Getting Up to Speed on High-Frequency Trading</h4> 
@@ -101,5 +104,13 @@ FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading
 1. <h4>Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?</h4>
 Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?](https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf) Retrieved on July 30, 2020 from https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf
 
-</br>
+</br></br>
 
+<h2>Execution Benchmarks</h2>
+
+<h3>Execution Benchmarks: Mandatory Readings</h3>
+<p>Execution benchmarks are used to analyze trade performance and to make decisions about modifying algorithms. The following article presents how execution benchmarks are used to conduct a transaction-cost analysis (TCA).
+</p>
+
+1. <h4>Know Your Benchmark</h4> 
+RCM Alternatives. (2018, June 28). [Know Your Benchmark](https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/). Retrieved August 07, 2020, from https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/
