@@ -67,8 +67,8 @@ A link to the quiz will be provided by the instructor. This assessment will coun
 <h2>Algorithmic Trading</h2>
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>
 
-<img class="" src="/assets/images/Algotrading.png" />
-![Algo-Trading Diagram](/assets/images/Algotrading.png)
+<img class="" src="assets/images/Algotrading.png" />
+![Algo-Trading Diagram](assets/images/Algotrading.png)
 
 <h3>Mandatory Readings</h3>
 <p>As you read through the articles below, think about how computerized trading has changed the trading landscape. 
