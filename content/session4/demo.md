@@ -58,10 +58,10 @@ At the end of this week, you will be able to:
 1. Understand how execution benchmarks are constructed. 
 </br></br>
 <h2>Preview of Activities</h2>
-<h3>Activity 4:  The Case of Knight Capital</h3>
+<a href="#projects"><h3>Activity 4:  The Case of Knight Capital</h3></a>
 In this activity, you will read a real case study of a high frequency trader and be asked to apply your learning about computerized trading to evaluate the moves that Knight Capital made and how the company could have better solved their problems.
 
-<h3>Quiz</h3>
+<a href="#projects"><h3>Quiz</h3></a>
 A link to the quiz will be provided by the instructor. This assessment will count towards your individual participation grade.
 
 
