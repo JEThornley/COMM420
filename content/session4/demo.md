@@ -58,10 +58,10 @@ At the end of this week, you will be able to:
 1. Understand how execution benchmarks are constructed. 
 </br></br>
 <h2>Preview of Activities</h2>
-<a href="#projects"><h3 class="color:#323232">Activity 4:  The Case of Knight Capital</h3></a>
+<a class="color:#323232" href="#projects"><h3 >Activity 4:  The Case of Knight Capital</h3></a>
 In this activity, you will read a real case study of a high frequency trader and be asked to apply your learning about computerized trading to evaluate the moves that Knight Capital made and how the company could have better solved their problems.
 
-<a href="#projects"><h3 class="color:#323232">Quiz</h3></a>
+<a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
 This assessment will count towards your individual participation grade.
 
 
@@ -75,6 +75,11 @@ The computerization of the order flow that began in the early 1970s paved the wa
 Algorithmic trading encompasses a range of trading activities, one of which is high-frequency trading. Review the diagram below which depicts this relationship.
 
 <a href="HFTinfographic_acc.pdf" target="_blank"><img class="" src="HFTinfographic.jpg" /></a>
+
+
+**References**
+U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
+
 
 </br></br>
 <h2>High-Frequency Trading</h2>
