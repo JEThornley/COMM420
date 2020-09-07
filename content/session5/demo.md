@@ -52,10 +52,10 @@ subtitle = "Innovative Market Structures"
 
 
 At the end of this week, you will be able to: 
-1. explain the advantages and disadvantages of speed bumps.
-1. weigh the advantages and risks of dark liquidity.
-1. compare the key features that distinguish dark markets from lit exchanges.
-1. evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
+1. Explain the advantages and disadvantages of speed bumps.
+1. Weigh the advantages and risks of dark liquidity.
+1. Compare the key features that distinguish dark markets from lit exchanges.
+1. Evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
  
 </br></br>
 <h2>Preview of Activities</h2>
@@ -67,58 +67,66 @@ This assessment will count towards your individual participation grade.
 </br></br>
 <h2>Speed Bumps</h2>
 A ‘speed bump’ is a mechanism for slowing down fast traders in order to give slower traders a fairer chance at the market. By implementing a timed delay (usually milliseconds) between the receipt of an order and the execution of its instructions, speed bumps are intended to mitigate the effects of asymmetric information by reducing the speed advantage of fast, sophisticated traders - such as predatory high-frequency traders (IIROC,  2018). However, critics of the mechanism (including many electronic trading firms) attest that speed bumps may make markets unnecessarily complex and unfairly favor certain market participants (Osipovich, 2019). Despite these concerns, nearly a dozen exchanges have proposed or implemented speed bumps. While the design of speed bumps differs across exchanges, all speed bumps in operation (except for IEX, which employs a “symmetrical” speed bump across all but pegged orders) are random and asymmetric, meaning that only liquidity-taking order types are delayed (Aoyagi, 2020).
-
+</br>
 **References** 
-
-Aoygi, J. (2020, July 30). The Optimal Speed to Go over Speed Bumps in Financial
+1. Aoygi, J. (2020, July 30). The Optimal Speed to Go over Speed Bumps in Financial
 Markets. Retrieved on August 31, 2020 from [https://www.researchgate.net/publication/330132515_The_Dark_Side_of_Regulating_Fast_Informed_Trading](https://www.researchgate.net/publication/330132515_The_Dark_Side_of_Regulating_Fast_Informed_Trading)
- 
-Investment Industry Regulatory Organization of Canada (IIROC). (2018, January 28). Speed Segmentation on exchanges: competition for slow flow. Retrieved on August 21, 2020 from [https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf](https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf)
- 
-Osipovich, A. (2019, July 29). More Exchanges Add ‘Speed Bumps,’ Defying High-Frequency Traders. The Wall Street Journal. Retrieved on August 31, 2020 from [https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611](https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611)
+1. Investment Industry Regulatory Organization of Canada (IIROC). (2018, January 28). Speed Segmentation on exchanges: competition for slow flow. Retrieved on August 21, 2020 from [https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf](https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf)
+1. Osipovich, A. (2019, July 29). More Exchanges Add ‘Speed Bumps,’ Defying High-Frequency Traders. The Wall Street Journal. Retrieved on August 31, 2020 from [https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611](https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611)
 
 <h3>Watch the following video</h3>
 {{< youtube M6IoYrahQ24 >}}
 
-</br></br>
-<h2>High-Frequency Trading</h2>
+<h3>Speed Bumps: Mandatory Readings</h3>
+<p>While some exchanges have readily adopted speed bumps and other speed-control measures, the question remains - are slower markets better? As you read through the following articles, consider whether you feel that exchanges should have a role in controlling the speed of their trading participants.</p>
 
-High-frequency traders use powerful computing technology to quickly process a high number of trades, often applying complex algorithms to trade across several markets simultaneously. In 2010, the SEC identified five characteristics that are frequently associated with high-frequency trading:
-1. Use of extraordinarily high speed and sophisticated programs for generating, routing, and executing orders.
-1. Use of co-location services and individual data feeds offered by exchanges and others to minimize network and other latencies.
-1. Very short time-frames for establishing and liquidating positions.
-1. Submission of numerous orders that are cancelled shortly after submission.
-1. Ending the trading day in as close to a flat position as possible (that is, not carrying significant, unhedged positions overnight).” [(SEC, 2014, pg. 4)](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
- 
-High-frequency trading made notable headlines in 2010 when it was suspected to have been the driver of a “flash crash” that occurred on May 6, 2010; during the crash, a number of stock indices including the S&P 500 and the Dow Jones Industrial Average collapsed and rebounded within the span of 36 minutes. Within the 2010 Concept Release, the SEC acknowledged that HFT was one of the most significant market structure developments of the period, and that “[b]y any measure, HFT is a dominant component of the current market structure and likely to affect nearly all aspects of its performance.” [(SEC, 2010, pg. 3606)]((https://www.sec.gov/rules/concept/2010/34-61358fr.pdf))
+1. <h4>Physics in finance: Trading at the speed of light</h4> 
+Buchanan, M. (2015, February 11). Physics in finance: Trading at the speed of light. Nature, 518(7538). Retrieved on August 29, 2020 from [https://www.nature.com/news/physics-in-finance-trading-at-the-speed-of-light-1.16872](https://www.nature.com/news/physics-in-finance-trading-at-the-speed-of-light-1.16872)
+1. <h4>Virtual speed bump for lightning-fast markets proposed</h4>
+University of British Columbia - Sauder School of Business. (2019, October 29). Virtual speed bump for lightning-fast markets proposed. ScienceDaily. Retrieved August 31, 2020 from [www.sciencedaily.com/releases/2019/10/191029140714.htm](www.sciencedaily.com/releases/2019/10/191029140714.htm)
+1. <h4>Asymmetric speed bumps: A market design response to high-frequency trading</h4>
+Baldauf, M. & Mollner, J. (2019, October 31). Asymmetric speed bumps: A market design response to high-frequency trading. Retrieved on August 21, 2020 from [https://voxeu.org/article/asymmetric-speed-bumps-response-high-frequency-trading](https://voxeu.org/article/asymmetric-speed-bumps-response-high-frequency-trading)
 
-**References**
-U.S. Securities and Exchange Commission (SEC). (2010). Concept Release on Equity Market Structure; Proposed Rule. Federal Register / Vol. 75, No. 13. Retrieved on August 6, 2020 from [https://www.sec.gov/rules/concept/2010/34-61358fr.pdf](https://www.sec.gov/rules/concept/2010/34-61358fr.pdf) 
- 
-U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
 
-<h3>AT & HFT: Mandatory Readings</h3>
-<p>As you read through the articles below, consider how computerized trading has changed the trading landscape. 
-</p>
-
-1. <h4>Getting Up to Speed on High-Frequency Trading</h4> 
-FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading](https://www.finra.org/investors/insights/getting-speed-high-frequency-trading). Retrieved on July 30, 2020 from https://www.finra.org/investors/insights/getting-speed-high-frequency-trading
-1. <h4>Equity Market Structure Literature Review Part II: High Frequency Trading</h4>
-**Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
-1. <h4>Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?</h4>
-Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?](https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf) Retrieved on July 30, 2020 from https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf
-
+<h3>Discussion Question</h3>
+Do you think that speed bumps are an effective form of regulation? Why or why not? Consider whether or not you think that HFTs could bypass them.
 </br></br>
 
-<h2>Execution Benchmarks</h2>
+<h2>Dark Markets</h2>
+“Darkness” refers to a lack of pre-trade quote transparency - neither the buyer nor the seller posts a visible bid or ask (Hasbrouck, 2017). Dark pools are alternative trading systems in which dark trades of securities and other financial instruments take place; these marketplaces are frequently used by large block traders (such as exchanges and institutional investors) who wish to trade without revealing information pre-trade that may cause markets to move against them (Aguilar 2015). Dark markets function in contrast to ‘lit’ markets; in lit markets, pre-trade bid and ask quotes are publicly displayed. Examples of lit markets include national exchanges, such as the New York Stock Exchange and the Nasdaq, and other traditional pools of liquidity.
 
-<h3>Execution Benchmarks: Mandatory Readings</h3>
-<p>Execution benchmarks are used to analyze trade performance and to make decisions about modifying algorithms. The following article presents how execution benchmarks are used to conduct a transaction-cost analysis (TCA).
-</p>
-
-1. <h4>Know Your Benchmark</h4> 
-RCM Alternatives. (2018, June 28). [Know Your Benchmark](https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/). Retrieved August 07, 2020, from https://www.rcmalternatives.com/rcmx/2018/06/know-your-benchmark/
 
 </br>
+**References** 
+1. Aguilar, L. (2015, November 18). Shedding Light on Dark Pools. Retrieved on August 17, 2020 from [https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html](https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html)
+1. Hasbrouck, J. (2017, June 21). Securities Trading: Principles and Procedures. Chapter 8: Dark Markets. Retrieved on August 31, 2020 from [http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf](http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf)
+
+
+<h3>Dark Markets: Mandatory Readings</h3>
+<p>As you read through the articles below, think about the distinguishing features of dark pools and why they have been reported as a “haven for predatory high-frequency traders.”
+</p>
+
+1. <h4>Shedding Light on Dark Pools</h4> 
+Aguilar, L. (2015, November 18). Shedding Light on Dark Pools. Retrieved on August 17, 2020 from [https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html](https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html)
+1. <h4>Chapter 8: Dark Markets (pages 62-66)</h4>
+Hasbrouck, J. (2017, June 21). Securities Trading: Principles and Procedures. Retrieved on August 17, 2020 from [http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf](http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf)
+
+
+<h3>Check for Understanding</h3>
+Which three of the following six features/statements are associated with dark markets? Which three are associated with lit markets?
+1. In this type of market, buyers and sellers post visible bids and asks.
+1. Attracting sufficient liquidity has often been a problem in this type of market.
+1. The New York Stock Exchange is an example of this type of market.
+1. The prices established in this type of market are often relied upon by the other type.
+1.  Participants in these markets often lack crucial information about how their trading systems function—and about the serious conflicts of interest they can harbor.
+1. In this type of market, market impact is significantly reduced for large orders.
+
+</br></br>
+
+<h3>Discussion Question</h3>
+You are participating in the market as an individual, slow investor (you are not supported by the sophisticated trading technology used by high-frequency trading firms). Would you prefer to participate in:
+1. A dark market or a lit market? Why?
+1. In a market with speed bumps or without speed bumps? Why?
+
 
 
