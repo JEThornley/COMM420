@@ -57,7 +57,7 @@ At the end of this week, you will be able to:
 1. Compare the key features that distinguish dark markets from lit exchanges.
 1. Evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
  
-</br></br>
+</br>
 <h2>Preview of Activities</h2>
 <a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
 This assessment will count towards your individual participation grade.
@@ -69,6 +69,7 @@ This assessment will count towards your individual participation grade.
 <p>A ‘speed bump’ is a mechanism for slowing down fast traders in order to give slower traders a fairer chance at the market. By implementing a timed delay (usually milliseconds) between the receipt of an order and the execution of its instructions, speed bumps are intended to mitigate the effects of asymmetric information by reducing the speed advantage of fast, sophisticated traders - such as predatory high-frequency traders (IIROC,  2018). However, critics of the mechanism (including many electronic trading firms) attest that speed bumps may make markets unnecessarily complex and unfairly favor certain market participants (Osipovich, 2019). Despite these concerns, nearly a dozen exchanges have proposed or implemented speed bumps. While the design of speed bumps differs across exchanges, all speed bumps in operation (except for IEX, which employs a “symmetrical” speed bump across all but pegged orders) are random and asymmetric, meaning that only liquidity-taking order types are delayed (Aoyagi, 2020).</p>
 
 </br>
+
 **References** 
 1. Aoygi, J. (2020, July 30). The Optimal Speed to Go over Speed Bumps in Financial
 Markets. Retrieved on August 31, 2020 from [https://www.researchgate.net/publication/330132515_The_Dark_Side_of_Regulating_Fast_Informed_Trading](https://www.researchgate.net/publication/330132515_The_Dark_Side_of_Regulating_Fast_Informed_Trading)
@@ -83,9 +84,9 @@ Markets. Retrieved on August 31, 2020 from [https://www.researchgate.net/publica
 
 1. <h4>Physics in finance: Trading at the speed of light</h4> 
 Buchanan, M. (2015, February 11). Physics in finance: Trading at the speed of light. Nature, 518(7538). Retrieved on August 29, 2020 from [https://www.nature.com/news/physics-in-finance-trading-at-the-speed-of-light-1.16872](https://www.nature.com/news/physics-in-finance-trading-at-the-speed-of-light-1.16872)
-1. <h4>Virtual speed bump for lightning-fast markets proposed</h4>
+2. <h4>Virtual speed bump for lightning-fast markets proposed</h4>
 University of British Columbia - Sauder School of Business. (2019, October 29). Virtual speed bump for lightning-fast markets proposed. ScienceDaily. Retrieved August 31, 2020 from [www.sciencedaily.com/releases/2019/10/191029140714.htm](www.sciencedaily.com/releases/2019/10/191029140714.htm)
-1. <h4>Asymmetric speed bumps: A market design response to high-frequency trading</h4>
+3. <h4>Asymmetric speed bumps: A market design response to high-frequency trading</h4>
 Baldauf, M. & Mollner, J. (2019, October 31). Asymmetric speed bumps: A market design response to high-frequency trading. Retrieved on August 21, 2020 from [https://voxeu.org/article/asymmetric-speed-bumps-response-high-frequency-trading](https://voxeu.org/article/asymmetric-speed-bumps-response-high-frequency-trading)
 
 
@@ -110,7 +111,7 @@ Do you think that speed bumps are an effective form of regulation? Why or why no
 
 1. <h4>Shedding Light on Dark Pools</h4> 
 Aguilar, L. (2015, November 18). Shedding Light on Dark Pools. Retrieved on August 17, 2020 from [https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html](https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html)
-1. <h4>Chapter 8: Dark Markets (pages 62-66)</h4>
+2. <h4>Chapter 8: Dark Markets (pages 62-66)</h4>
 Hasbrouck, J. (2017, June 21). Securities Trading: Principles and Procedures. Retrieved on August 17, 2020 from [http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf](http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf)
 
 
