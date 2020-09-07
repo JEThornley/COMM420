@@ -117,6 +117,7 @@ Hasbrouck, J. (2017, June 21). Securities Trading: Principles and Procedures. Re
 
 <h3>Check for Understanding</h3>
 Which three of the following six features/statements are associated with dark markets? Which three are associated with lit markets?
+
 1. In this type of market, buyers and sellers post visible bids and asks.
 1. Attracting sufficient liquidity has often been a problem in this type of market.
 1. The New York Stock Exchange is an example of this type of market.
@@ -127,6 +128,7 @@ Which three of the following six features/statements are associated with dark ma
 
 <h3>Discussion Question</h3>
 You are participating in the market as an individual, slow investor (you are not supported by the sophisticated trading technology used by high-frequency trading firms). Would you prefer to participate in:
+
 1. A dark market or a lit market? Why?
 1. In a market with speed bumps or without speed bumps? Why?
 
