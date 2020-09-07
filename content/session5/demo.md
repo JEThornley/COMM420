@@ -97,6 +97,7 @@ Do you think that speed bumps are an effective form of regulation? Why or why no
 
 
 </br>
+
 **References** 
 1. Aguilar, L. (2015, November 18). Shedding Light on Dark Pools. Retrieved on August 17, 2020 from [https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html](https://www.sec.gov/news/statement/shedding-light-on-dark-pools.html)
 1. Hasbrouck, J. (2017, June 21). Securities Trading: Principles and Procedures. Chapter 8: Dark Markets. Retrieved on August 31, 2020 from [http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf](http://people.stern.nyu.edu/jhasbrou/TeachingMaterials/STPPms12a.pdf)
@@ -121,7 +122,6 @@ Which three of the following six features/statements are associated with dark ma
 1.  Participants in these markets often lack crucial information about how their trading systems function—and about the serious conflicts of interest they can harbor.
 1. In this type of market, market impact is significantly reduced for large orders.
 
-</br></br>
 
 <h3>Discussion Question</h3>
 You are participating in the market as an individual, slow investor (you are not supported by the sophisticated trading technology used by high-frequency trading firms). Would you prefer to participate in:
