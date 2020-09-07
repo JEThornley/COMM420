@@ -78,7 +78,7 @@ Investment Industry Regulatory Organization of Canada (IIROC). (2018, January 28
 Osipovich, A. (2019, July 29). More Exchanges Add ‘Speed Bumps,’ Defying High-Frequency Traders. The Wall Street Journal. Retrieved on August 31, 2020 from [https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611](https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611)
 
 <h3>Watch the following video</h3>
-{{< youtube 8Nmr55KWp_w >}}
+{{< youtube M6IoYrahQ24 >}}
 
 </br></br>
 <h2>High-Frequency Trading</h2>
