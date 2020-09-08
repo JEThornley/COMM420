@@ -54,11 +54,7 @@
               url = "session5/"
               weight = 90
 
-              [[main]]
-                name = "Session 6"
-                parent = "content-parent"
-                url = "session6/"
-                weight = 100
+  
 
 #[[main]]
 #  name = "Publications"
