@@ -8,10 +8,10 @@
   url = ""
   weight = 10
 
-[[main]]
-  name = "Articles + more"
-  url = "#posts"
-  weight = 250
+#[[main]]
+#  name = "Articles + more"
+#  url = "#posts"
+#  weight = 250
 
 [[main]]
   name = "Course Schedule"
@@ -54,7 +54,7 @@
               url = "session5/"
               weight = 90
 
-  
+
 
 #[[main]]
 #  name = "Publications"
