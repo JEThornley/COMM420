@@ -24,7 +24,7 @@ subtitle = ""
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Course details"
-  description = "[Day of the week, time, link to video portal?]"  
+  description = "See [Brightspace](https://smithlearning.ca/d2l/login)"  
   
 [[feature]]
   icon = "envelope"
