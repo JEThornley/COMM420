@@ -25,7 +25,7 @@ date_format = "January 2, 2006"
   url = "session1/"
   date_start = "2020-09-06"
   date_end = "2020-09-12"
-  description = "Welcome to MFIN841"
+  description = "Welcome to MFIN841! </br></br> *Deliverable: pre-course survey*""
 
 [[item]]
   organization = "Session 2"

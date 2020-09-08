@@ -8,6 +8,8 @@
 # Title of your site
 title = "Financial Technology and Innovation"
 
+googleAnalytics = "UA-177444749-1"
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
