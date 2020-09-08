@@ -51,7 +51,7 @@ subtitle = "Introduction to COMM 420"
 +++
 
 
-Welcome to COMM 420: Financial Markets and Innovation! Please review the [course outline](/files/COMM420_CourseOutline.pdf).
+Welcome to COMM 420: Financial Markets and Innovation! Please review the [course outline](/files/COMM420_CourseOutline.pdf) and **fill out the [appropriate pre-course survey](#projects)**. 
 
 <p>This course is designed to present students with an alternate lens on finance, particularly financial markets, trading and investing, by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in trading including, high frequency and algorithmic trading, automated markets, and market speed bumps will be examined from a market welfare perspective. How automation affects the investment and portfolio management process and business will also be discussed. </p>
 
