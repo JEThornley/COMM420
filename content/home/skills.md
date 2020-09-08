@@ -30,7 +30,7 @@ subtitle = ""
   icon = "envelope"
   icon_pack = "fas"
   name = "Contacting me"
-  description = "[ryanriordan@queensu.ca](mailto:ryanriordan@queensu.ca)"
+  description = "[ryan.riordan@queensu.ca](mailto:ryan.riordan@queensu.ca)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
