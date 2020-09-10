@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Session 2"
-subtitle = ""
+subtitle = "Trading and Markets & Floor and Limit Order Markets"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -59,3 +59,21 @@ After completing the weekly section, you will be able to:
 1. Calculate execution prices
 
 
+</br></br>
+<a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
+This assessment will count towards your individual participation grade.
+
+</br></br>
+<h2>Trading and Markets</h2>
+<h3>Trading and Markets: Mandatory Readings</h3>
+<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a minimum of 2 of the following sources.
+</p>
+
+1. <h4>Why do countries trade?</h4> 
+Economics Online. (n.d.). [Why do countries trade?](https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html) Retrieved May 8, 2020, from https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html
+
+1. <h4>Equity Market Structure Literature Review Part II: High Frequency Trading</h4>
+**Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
+
+</br></br>
+<h2>Floor and Limit Order Markets</h2>
