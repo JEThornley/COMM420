@@ -73,34 +73,40 @@ This assessment will count towards your individual participation grade.
 </p>
 
 1. <h4>Why Do Countries Trade?</h4> 
-Economics Online. (n.d.). [Why Do Countries Trade?](https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html) Retrieved from https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html
+Economics Online. (n.d.). [Why Do Countries Trade?](https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html) Retrieved on September 5, 2020 from https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html
 
 2. <h4>The Importance of International Trade</h4>
-Pettinger, T. (2019, March 26). [The Importance of International Trade](https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/). Retrieved from https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/
+Pettinger, T. (2019, March 26). [The Importance of International Trade](https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/). Retrieved on September 5, 2020 from https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/
 
 3. <h4>Benefits of Free Trade</h4>
-Pettinger, T. (2019, July 28). [Benefits of Free Trade](https://www.economicshelp.org/trade2/benefits_free_trade/). Retrieved from https://www.economicshelp.org/trade2/benefits_free_trade/
+Pettinger, T. (2019, July 28). [Benefits of Free Trade](https://www.economicshelp.org/trade2/benefits_free_trade/). Retrieved on September 5, 2020 from https://www.economicshelp.org/trade2/benefits_free_trade/
 
 4. <h4>Arguments Against Free Trade</h4>
-Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.economicshelp.org/trade2/arguments-against-free-trade/). Retrieved from https://www.economicshelp.org/trade2/arguments-against-free-trade/
+Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.economicshelp.org/trade2/arguments-against-free-trade/). Retrieved on September 5, 2020 from https://www.economicshelp.org/trade2/arguments-against-free-trade/
 
 5. <h4>Market Economy, Its Characteristics, Pros, and Cons, with Examples</h4>
-Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
+Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved on September 5, 2020 from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
 
 
 <h3>Trading and Markets: Mandatory Readings</h3>
 Please read the following articles and watch the TED-Ed talk by Oliver Elfenbaum.
 
-1. <h4>Please explain how financial markets may affect economic performance.</h4> 
-Federal Reserve Bank of San Francisco  (2005, January). [Please explain how financial markets may affect economic performance.](https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/) Retrieved from https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/
+1. <h4>What are financial markets and why are they important?</h4> 
+Bank of England. (n.d.). [What are financial markets and why are they important?](https://www.bankofengland.co.uk/knowledgebank/what-are-financial-markets-and-why-are-they-important) Retrieved on September 5, 2020 from https://www.bankofengland.co.uk/knowledgebank/what-are-financial-markets-and-why-are-they-important
 
-2. <h4>The Social Functions of the Stock Market: A Primer</h4> 
-Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/) Retrieved from https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/
+2. <h4>Please explain how financial markets may affect economic performance.</h4> 
+Federal Reserve Bank of San Francisco.  (2005, January). [Please explain how financial markets may affect economic performance.](https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/) Retrieved on September 5, 2020 from https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/
+
+3. <h4>The Social Functions of the Stock Market: A Primer</h4> 
+Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/) Retrieved on September 5, 2020 from https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/
 
 
 <h4>How does the stock market work? - Oliver Elfenbaum</h4>
 {{< youtube p7HKvqRI_Bo >}}
 
+<h3>Trading and Markets: Optional Readings</h3>
+1. <h4>Chapter 7 Foreign Exchange and the Global Capital Markets </h4> 
+International Business, adapted by Saylor Academy. (n.d.). [Chapter 7 Foreign Exchange and the Global Capital Markets.?](https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html) Retrieved on September 5, 2020 from https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html
 
 </br></br>
 <h2>Floor and Limit Order Markets</h2>
