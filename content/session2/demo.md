@@ -50,7 +50,7 @@ subtitle = "Trading and Markets & Floor and Limit Order Markets"
  css_class = ""
 +++
 
-After completing the weekly section, you will be able to:
+At the end of this week, you will be able to:
 1. Understand the need for trading and markets
 1. Analyze the difference between traditional and financial markets
 1. Explain the functions and roles in a floor market
@@ -69,7 +69,7 @@ This assessment will count towards your individual participation grade.
 {{< video src="Floormarkets.m4v" controls="yes" >}}
 
 <h3>Trading and Markets: Mandatory Readings</h3>
-<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a minimum of 2 of the following sources.
+<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a **minimum of three** of the following sources.
 </p>
 
 1. <h4>Why Do Countries Trade?</h4> 
@@ -86,7 +86,7 @@ Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.ec
 
 5. <h4>Market Economy, Its Characteristics, Pros, and Cons, with Examples</h4>
 Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved on September 5, 2020 from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
-
+</br>
 
 <h3>Trading and Markets: Mandatory Readings</h3>
 Please read the following articles and watch the TED-Ed talk by Oliver Elfenbaum.
@@ -105,8 +105,9 @@ Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](h
 {{< youtube p7HKvqRI_Bo >}}
 
 <h3>Trading and Markets: Optional Readings</h3>
-1. <h4>Chapter 7 Foreign Exchange and the Global Capital Markets </h4> 
-International Business, adapted by Saylor Academy. (n.d.). [Chapter 7 Foreign Exchange and the Global Capital Markets.?](https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html) Retrieved on September 5, 2020 from https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html
+
+1. <h4>Chapter 7: Foreign Exchange and the Global Capital Markets </h4> 
+International Business, adapted by Saylor Academy. (n.d.). [Chapter 7: Foreign Exchange and the Global Capital Markets.](https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html) Retrieved on September 5, 2020 from https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html
 
 </br></br>
 <h2>Floor and Limit Order Markets</h2>
