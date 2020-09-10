@@ -86,8 +86,9 @@ Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.ec
 
 5. <h4>Market Economy, Its Characteristics, Pros, and Cons, with Examples</h4>
 Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved on September 5, 2020 from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
-</br>
 
+</br>
+</br>
 <h3>Trading and Markets: Mandatory Readings</h3>
 Please read the following articles and watch the TED-Ed talk by Oliver Elfenbaum.
 
