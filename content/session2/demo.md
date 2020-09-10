@@ -60,6 +60,7 @@ After completing the weekly section, you will be able to:
 
 
 </br></br>
+<h2>Preview of Activities</h2>
 <a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
 This assessment will count towards your individual participation grade.
 
@@ -87,6 +88,18 @@ Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.ec
 Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
 
 
+<h3>Trading and Markets: Mandatory Readings</h3>
+Please read the following articles and watch the TED-Ed talk by Oliver Elfenbaum.
+
+1. <h4>Please explain how financial markets may affect economic performance.</h4> 
+Federal Reserve Bank of San Francisco  (2005, January). [Please explain how financial markets may affect economic performance.](https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/) Retrieved from https://www.frbsf.org/education/publications/doctor-econ/2005/january/financial-markets-economic-performance/
+
+2. <h4>The Social Functions of the Stock Market: A Primer</h4> 
+Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/) Retrieved from https://clsbluesky.law.columbia.edu/2019/04/12/the-social-functions-of-the-stock-market-a-primer/
+
+
+<h4>How does the stock market work? - Oliver Elfenbaum</h4>
+{{< youtube p7HKvqRI_Bo >}}
 
 
 </br></br>
