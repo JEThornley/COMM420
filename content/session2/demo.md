@@ -66,7 +66,6 @@ This assessment will count towards your individual participation grade.
 
 </br></br>
 <h2>Trading and Markets</h2>
-# {{< video src="Floormarkets.m4v" controls="yes" >}}
 
 <h3>Trading and Markets: Mandatory Readings</h3>
 <p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a **minimum of three** of the following sources.
