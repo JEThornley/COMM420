@@ -65,15 +65,29 @@ This assessment will count towards your individual participation grade.
 
 </br></br>
 <h2>Trading and Markets</h2>
+{{< video src="Floormarkets.m4v" controls="yes" >}}
+
 <h3>Trading and Markets: Mandatory Readings</h3>
 <p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a minimum of 2 of the following sources.
 </p>
 
-1. <h4>Why do countries trade?</h4> 
-Economics Online. (n.d.). [Why do countries trade?](https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html) Retrieved May 8, 2020, from https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html
+1. <h4>Why Do Countries Trade?</h4> 
+Economics Online. (n.d.). [Why Do Countries Trade?](https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html) Retrieved from https://www.economicsonline.co.uk/Global_economics/Why_do_countries_trade.html
 
-1. <h4>Equity Market Structure Literature Review Part II: High Frequency Trading</h4>
-**Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
+2. <h4>The Importance of International Trade</h4>
+Pettinger, T. (2019, March 26). [The Importance of International Trade](https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/). Retrieved from https://www.economicshelp.org/blog/58802/trade/the-importance-of-international-trade/
+
+3. <h4>Benefits of Free Trade</h4>
+Pettinger, T. (2019, July 28). [Benefits of Free Trade](https://www.economicshelp.org/trade2/benefits_free_trade/). Retrieved from https://www.economicshelp.org/trade2/benefits_free_trade/
+
+4. <h4>Arguments Against Free Trade</h4>
+Pettinger, T. (2018, November 28). [Arguments Against Free Trade](https://www.economicshelp.org/trade2/arguments-against-free-trade/). Retrieved from https://www.economicshelp.org/trade2/arguments-against-free-trade/
+
+5. <h4>Market Economy, Its Characteristics, Pros, and Cons, with Examples</h4>
+Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586). Retrieved from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586
+
+
+
 
 </br></br>
 <h2>Floor and Limit Order Markets</h2>
