@@ -110,4 +110,3 @@ Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](h
 International Business, adapted by Saylor Academy. (n.d.). [Chapter 7: Foreign Exchange and the Global Capital Markets.](https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html) Retrieved on September 5, 2020 from https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html
 
 </br></br>
-# <h2>Floor and Limit Order Markets</h2>
