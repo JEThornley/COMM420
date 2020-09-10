@@ -68,7 +68,7 @@ This assessment will count towards your individual participation grade.
 <h2>Trading and Markets</h2>
 
 <h3>Trading and Markets: Mandatory Readings</h3>
-<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read a **minimum of three** of the following sources.
+<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read the following sources.
 </p>
 
 1. <h4>Why Do Countries Trade?</h4> 
