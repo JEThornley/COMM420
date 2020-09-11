@@ -71,8 +71,6 @@ This assessment will count towards your individual participation grade.
 <h4>The Need for Trade and Markets - Dr. Riordan</h4>
 {{< video src="tradeandmarkets.mp4" controls="yes" >}}
 
-<h4>Financial Markets - Dr. Riordan</h4>
-{{< video src="financialmarkets.mp4" controls="yes" >}}
 
 
 <h3>Trading and Markets: Mandatory Readings</h3>
@@ -96,7 +94,11 @@ Amadeo, K. (2020, April 6). [Market Economy, Its Characteristics, Pros, and Cons
 
 </br>
 </br>
-<h3>Trading and Markets: Mandatory Readings</h3>
+
+<h2>Financial Markets </h2>
+<h4>Financial Markets - Dr. Riordan</h4>
+{{< video src="financialmarkets.mp4" controls="yes" >}}
+<h3>Financial Markets: Mandatory Readings</h3>
 Please read the following articles and watch the TED-Ed talk by Oliver Elfenbaum.
 
 1. <h4>What are financial markets and why are they important?</h4> 
