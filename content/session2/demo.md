@@ -112,4 +112,14 @@ International Business, adapted by Saylor Academy. (n.d.). [Chapter 7: Foreign E
 
 </br></br>
 <h2>Floor and Limit Order Markets</h2>
+<h4>Floor Markets - Dr. Riordan</h4>
 {{< video src="Floormarkets.mp4" controls="yes" >}}
+
+<h4>Limit Order Markets - Dr. Riordan</h4>
+{{< video src="Limitordermarkets.mp4" controls="yes" >}}
+
+<h4>Rules of Priority - Dr. Riordan</h4>
+{{< video src="Rulesofpriority.mp4" controls="yes" >}}
+
+<h4>Marketable Limit Orders - Dr. Riordan</h4>
+{{< video src="Marketablelimitorders.mp4" controls="yes" >}}
