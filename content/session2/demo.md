@@ -66,10 +66,10 @@ This assessment will count towards your individual participation grade.
 
 </br></br>
 <h2>Trading and Markets</h2>
-{{< video src="Floormarkets.mp4" controls="yes" >}}
+
 
 <h3>Trading and Markets: Mandatory Readings</h3>
-<p>You’ve now had a brief introduction to the need for trade, how trade leads to specialization, and why markets were formed. Now, delve a little deeper and get some alternative perspectives on some of these topics. Please read the following sources.
+<p>Please read the following articles. As you're reading, consider the need for trade, how trade leads to specialization, and why markets were formed.
 </p>
 
 1. <h4>Why Do Countries Trade?</h4> 
@@ -111,3 +111,5 @@ Fox, M. (2019, April 12). [The Social Functions of the Stock Market: A Primer](h
 International Business, adapted by Saylor Academy. (n.d.). [Chapter 7: Foreign Exchange and the Global Capital Markets.](https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html) Retrieved on September 5, 2020 from https://saylordotorg.github.io/text_international-business/s11-foreign-exchange-and-the-globa.html
 
 </br></br>
+<h2>Floor and Limit Order Markets</h2>
+{{< video src="Floormarkets.mp4" controls="yes" >}}
