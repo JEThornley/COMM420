@@ -68,6 +68,13 @@ This assessment will count towards your individual participation grade.
 <h2>Trading and Markets</h2>
 
 
+<h4>The Need for Trade and Markets - Dr. Riordan</h4>
+{{< video src="tradeandmarkets.mp4" controls="yes" >}}
+
+<h4>Financial Markets - Dr. Riordan</h4>
+{{< video src="financialmarkets.mp4" controls="yes" >}}
+
+
 <h3>Trading and Markets: Mandatory Readings</h3>
 <p>Please read the following articles. As you're reading, consider the need for trade, how trade leads to specialization, and why markets were formed.
 </p>
