@@ -50,7 +50,7 @@ subtitle = "Trading and Markets & Floor and Limit Order Markets"
  css_class = ""
 +++
 
-#At the end of this week, you will be able to:
+  <!--#At the end of this week, you will be able to:
 #1. Understand the need for trading and markets
 #1. Analyze the difference between traditional and financial markets
 #1. Explain the functions and roles in a floor market
@@ -59,7 +59,7 @@ subtitle = "Trading and Markets & Floor and Limit Order Markets"
 #1. Calculate execution prices
 
 
-#</br></br>
+#</br></br>-->
 <h2>Preview of Activities</h2>
 <a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
 This assessment will count towards your individual participation grade.
