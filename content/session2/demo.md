@@ -198,13 +198,13 @@ Corporate Finance Institute. (n.d.). [Trading Floor - A Guide to Jobs and Work o
 <h4>Exercise 2</h4>
 {{< figure src="exercise2.png"  >}}
 <p>Imagine a new order to buy 200 shares at $10.00 arrives. Where does it enter the order book?</p>
-1. Position A (top of bid column)
-2. Position B (bottom of bid column)
-3. Position C (top of offer column)
-4. Position D (bottom of offer column). 
+1. Position A (top of bid column) </br>
+2. Position B (bottom of bid column) </br>
+3. Position C (top of offer column) </br>
+4. Position D (bottom of offer column) </br>
 
 <p>In the above order book, which order is considered the top-of-book offer?</p>
-1. order to sell 50 shares at $10.03
-2. order to sell 800 shares at $10.07
-3. order to sell 100 shares at $10.01
-4. order to buy 100 shares at $9.98 
+1. order to sell 50 shares at $10.03 </br>
+2. order to sell 800 shares at $10.07 </br>
+3. order to sell 100 shares at $10.01 </br>
+4. order to buy 100 shares at $9.98  </br>
