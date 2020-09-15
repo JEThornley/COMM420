@@ -141,6 +141,10 @@ Bids and offers enter the order book at the time the order is made. Therefore, a
 <p>On the other hand, the lowest priced offer is considered the top-of-book order. Therefore, in the example above, the top-of-book offer is for 10.01.</p>
 <p>The top-of-book orders are also called the best prices. </p>
 
+<h3>Floor Markets: Mandatory Readings</h3>
+
+1. <h4>Trading Floor - A Guide to Jobs and Work on the Trading Floor</h4> 
+Corporate Finance Institute. (n.d.). [Trading Floor - A Guide to Jobs and Work on the Trading Floor.](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/trading-floor/) Retrieved July 13, 2020, from  https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/trading-floor/
 
 
 
@@ -156,8 +160,51 @@ Bids and offers enter the order book at the time the order is made. Therefore, a
 <h4>Marketable Limit Orders - Dr. Riordan</h4>
 {{< video src="Marketablelimitorders.mp4" controls="yes" >}}
 
+<p>&nbsp;</p>
 <p>So far, we have looked at how individual orders operate within one market. However, multiple markets exist for trading the same asset. These multiple markets lead to what is called “fragmented markets." Each market operates with slightly different order priorities and rules of trading, consequently, making trade more complicated. Orders that may execute first in one market may not execute at all in another market. Understanding these rules of execution priority and making decisions about which market is the best for a given order is an important part of trading in fragmented markets. The next video will illustrate how multiple markets have an effect on calculating execution prices.
 </p>
 
 <h4>Introduction to Multiple Markets - Dr. Riordan</h4>
 {{< video src="Introtomultiplemarkets.mp4" controls="yes" >}}
+
+<h3> Calculating Execution Prices</h3>
+<p>What does it mean to calculate the execution price?
+</p>
+
+<p>Throughout the rest of this course, you will sometimes be asked to “calculate the execution price” of a bid or offer. This means that you should delete any transacting bids and offers from the order book and then list any order that transacts in the sequence in which they execute. You should include how many shares and at what price. See the example below.</p>
+<p>Example:</p>
+{{< figure src="execprice1.png"  >}}
+<p>This example has some orders that would transact and therefore, it is not an authentic view of an order book because those transactable orders would immediately execute and be deleted from the order book. </p>
+<b>For example:</b>
+<p>“The bid for 200 shares at $5.18 would immediately transact with the offer for 100 shares at $5.07. That offer would be completely fulfilled and would immediately disappear. There would be 100 shares of the bid at $5.18 remaining.</p>
+<p>Then, the remaining 100 shares of the bid for 200 shares at $5.18 that did not previously transact would  execute against the next top-of-book offer for 150 shares at $5.12.”
+</p>
+<p>The resulting order book after the transaction would look like this:</p>
+{{< figure src="execprice2.png"  >}}
+
+<h3>Floor and Limit Order Markets: Exercises </h3>
+<h4>Exercise 1</h4>
+
+{{< figure src="limitorder1.png"  >}}
+<b>Q1: Imagine an Offer</b>
+<p>Given the above order book, provide an example of an offer that would make one or more bids execute. For example, “An order to sell X shares at $Y arrives.”</p>
+
+<b>Q2: Calculate the Execution Price(s)</b>
+<p>Using your imagined offer, explain which bid or bids execute and the execution price. Review Calculating Execution Prices if necessary.</p>
+<p>For example, “The bid for X shares at $Y would immediately transact with the offer for A shares at $B and both bid and offer would immediately disappear.”</p>
+<b>Q3: Analyze the Effect of Fragmented Markets</b>
+<p>You should now have a better sense of order book operations. Remember that there are multiple markets, each with their own priorities and rules. In your opinion, what kind of problems can occur when multiple markets each have their own variations of price-time-visibility rules? How might those different priorities and rules affect the construction of a limit order book?</p>
+
+<h4>Exercise 2</h4>
+{{< figure src="exercise2.png"  >}}
+<p>Imagine a new order to buy 200 shares at $10.00 arrives. Where does it enter the order book?</p>
+1. Position A (top of bid column)
+2. Position B (bottom of bid column)
+3. Position C (top of offer column)
+4. Position D (bottom of offer column). 
+
+<p>In the above order book, which order is considered the top-of-book offer?</p>
+1. order to sell 50 shares at $10.03
+2. order to sell 800 shares at $10.07
+3. order to sell 100 shares at $10.01
+4. order to buy 100 shares at $9.98 
