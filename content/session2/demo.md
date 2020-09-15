@@ -129,7 +129,7 @@ International Business, adapted by Saylor Academy. (n.d.). [Chapter 7: Foreign E
 Bids and offers enter the order book at the time the order is made. Therefore, a bid may arrive before an executable offer is available.</p>
 <p>Example:</p>
 
-{{< figure src="introexec.png"  >}}
+<img class="" style="width:300px;" src="introexec.png" />
 <strong>Price</strong>
 <p>New orders enter the order book in terms of price. The highest priced bids are entered at the top of each column. Thus, bids and offers are in price order top to bottom.</p>
 <p>Bids at the top of the bids columns execute against offers at the bottom of the offers columns.</p>
@@ -173,19 +173,19 @@ Corporate Finance Institute. (n.d.). [Trading Floor - A Guide to Jobs and Work o
 
 <p>Throughout the rest of this course, you will sometimes be asked to “calculate the execution price” of a bid or offer. This means that you should delete any transacting bids and offers from the order book and then list any order that transacts in the sequence in which they execute. You should include how many shares and at what price. See the example below.</p>
 <p>Example:</p>
-{{< figure src="execprice1.png"  >}}
+<img class="" style="width:300px;" src="execprice1.png" />
 <p>This example has some orders that would transact and therefore, it is not an authentic view of an order book because those transactable orders would immediately execute and be deleted from the order book. </p>
 <b>For example:</b>
 <p>“The bid for 200 shares at $5.18 would immediately transact with the offer for 100 shares at $5.07. That offer would be completely fulfilled and would immediately disappear. There would be 100 shares of the bid at $5.18 remaining.</p>
 <p>Then, the remaining 100 shares of the bid for 200 shares at $5.18 that did not previously transact would  execute against the next top-of-book offer for 150 shares at $5.12.”
 </p>
 <p>The resulting order book after the transaction would look like this:</p>
-{{< figure src="execprice2.png"  >}}
+<img  style="width:300px;" class="" src="execprice2.png" />
 
 <h3>Floor and Limit Order Markets: Exercises </h3>
 <h4>Exercise 1</h4>
 
-{{< figure src="limitorder1.png"  >}}
+<img class="" src="limitorder1.png" />
 <b>Q1: Imagine an Offer</b>
 <p>Given the above order book, provide an example of an offer that would make one or more bids execute. For example, “An order to sell X shares at $Y arrives.”</p>
 
@@ -194,9 +194,10 @@ Corporate Finance Institute. (n.d.). [Trading Floor - A Guide to Jobs and Work o
 <p>For example, “The bid for X shares at $Y would immediately transact with the offer for A shares at $B and both bid and offer would immediately disappear.”</p>
 <b>Q3: Analyze the Effect of Fragmented Markets</b>
 <p>You should now have a better sense of order book operations. Remember that there are multiple markets, each with their own priorities and rules. In your opinion, what kind of problems can occur when multiple markets each have their own variations of price-time-visibility rules? How might those different priorities and rules affect the construction of a limit order book?</p>
-
+</br>
 <h4>Exercise 2</h4>
-{{< figure src="exercise2.png"  >}}
+<img class="" src="exercise2.png" />
+
 <p>Imagine a new order to buy 200 shares at $10.00 arrives. Where does it enter the order book?</p>
 1. Position A (top of bid column) </br>
 2. Position B (bottom of bid column) </br>
