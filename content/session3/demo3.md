@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = ""
+title = "Check Your Understanding"
 subtitle = ""
 
 [design]
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#edf2fd"
+   color = "#f1f5fd"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3>Check Your Understanding</h3>
+
 
 
 <p>Q1: The earliest electrical communications medium specifically dedicated to the financial sector was the:</p>

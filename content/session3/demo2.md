@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#edf2fd"
+   color = "#f1f5fd"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -66,6 +66,3 @@ Spicer, D. (2015, October 06). [Tools of The Trade: An Historical Look at Techno
 Pfeffer, I. (n.d.). [Electronic Trading](https://www.britannica.com/topic/Electronic-Trading-1517831). Britannica Book of the Year. Retrieved July 10, 2020 from https://www.britannica.com/topic/Electronic-Trading-1517831
 
 
-
-<h3>Check Your Understanding</h3>
-<p>In modern stock exchanges, why has market speed become so important? What factors can give a trader an edge over the competition? Highlight a specific market technology and why it’s important.</p>
