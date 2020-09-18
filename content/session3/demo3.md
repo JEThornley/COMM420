@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Session 3"
-subtitle = "Evolution of Market Technology & Evaluating Market Quality"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = "Evolution of Market Technology & Evaluating Market Quality"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#FFFFFF"
+   color = "#edf2fd"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -49,9 +49,27 @@ subtitle = "Evolution of Market Technology & Evaluating Market Quality"
  # CSS class.
  css_class = ""
 +++
-After completing the weekly section, you will be able to:
-1. Illustrate the evolution of market technology 
-1. Identify the importance of speed in trading 
-1. Assess the quality of an electronic market 
 
+<h3>Check Your Understanding</h3>
+
+
+<p>Q1: The earliest electrical communications medium specifically dedicated to the financial sector was the:</p>
+<p>a) Transatlantic Telegraph Cable </br>
+b) Stock ticker (ticker tape) </br>
+c) Stock Exchange Automated Quotation System </br>
+d) Intermarket Trading System
+
+</p>
+
+<p>Q2: In modern stock exchanges, why has market speed become so important? What factors can give a trader an edge over the competition? Highlight a specific market technology and why it’s important.</p>
+
+<p>Q3: True or False? An Intermarket Trading System is a computerized system that automatically matches buy and sell orders for securities in the market.</p>
+<p>a) True </br>
+b) False
+</p>
+
+<p>Q4: True or False? The desire for faster access to market information has been a primary driver for many developments in trading technology.</p>
+<p>a) True </br>
+b) False
+</p>
 

@@ -18,7 +18,7 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Quiz"
-  description = "[This assessment](#projects) will count towards your individual participation grade."
+  description = "[This assessment](#projects) will count towards your individual participation grade"
   
 [[feature]]
   icon = "comments"
