@@ -61,18 +61,17 @@ d) Intermarket Trading System
 </p>
 </br>
 
-<p>Q2: In modern stock exchanges, why has market speed become so important? What factors can give a trader an edge over the competition? Highlight a specific market technology and why it’s important.</p>
-</br>
 
-<p>Q3: True or False? An Intermarket Trading System is a computerized system that automatically matches buy and sell orders for securities in the market.</p>
+<p>Q2: True or False? An Intermarket Trading System is a computerized system that automatically matches buy and sell orders for securities in the market.</p>
 <p>a) True </br>
 b) False
 </p>
 </br>
 
-<p>Q4: True or False? The desire for faster access to market information has been a primary driver for many developments in trading technology.</p>
+<p>Q3: True or False? The desire for faster access to market information has been a primary driver for many developments in trading technology.</p>
 <p>a) True </br>
 b) False
 </p>
 </br>
+
 
