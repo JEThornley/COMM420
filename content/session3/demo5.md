@@ -53,6 +53,6 @@ subtitle = ""
 
 
 
-<p>Q1: In modern stock exchanges, why has market speed become so important? What factors can give a trader an edge over the competition? Highlight a specific market technology and why it’s important.</p>
+<p>Q: In modern stock exchanges, why has market speed become so important? What factors can give a trader an edge over the competition? Highlight a specific market technology and why it’s important.</p>
 </br>
 
