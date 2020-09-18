@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Evolution of Market Technology"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<h3>Liquidity Reading and Resources: Mandatory Readings</h3>
+<h3>Liquidity: Mandatory Readings</h3>
 <p>Please read the following articles.
 </p>
 
