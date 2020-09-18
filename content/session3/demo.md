@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Session 3"
 subtitle = "Evolution of Market Technology & Evaluating Market Quality"
@@ -53,6 +53,5 @@ After completing the weekly section, you will be able to:
 1. Illustrate the evolution of market technology 
 1. Identify the importance of speed in trading 
 1. Assess the quality of an electronic market 
-
 
 
