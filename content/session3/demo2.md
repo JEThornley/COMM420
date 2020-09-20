@@ -49,6 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<h3>Evolution of Market Technology - Dr. Riordan (Audio Only)</h3>
+{{< video src="EvoofMktTech.mp4" controls="yes" >}}
+
 <h3>Evolution of Market Technology: Mandatory Readings</h3>
 <p>Please read the following articles.
 </p>
