@@ -60,11 +60,11 @@ High-frequency traders use powerful computing technology to quickly process a hi
  
 High-frequency trading made notable headlines in 2010 when it was suspected to have been the driver of a “flash crash” that occurred on May 6, 2010; during the crash, a number of stock indices including the S&P 500 and the Dow Jones Industrial Average collapsed and rebounded within the span of 36 minutes. Within the 2010 Concept Release, the SEC acknowledged that HFT was one of the most significant market structure developments of the period, and that “[b]y any measure, HFT is a dominant component of the current market structure and likely to affect nearly all aspects of its performance.” [(SEC, 2010, pg. 3606)]((https://www.sec.gov/rules/concept/2010/34-61358fr.pdf))
 
-**References**
+**References** </br>
 U.S. Securities and Exchange Commission (SEC). (2010). Concept Release on Equity Market Structure; Proposed Rule. Federal Register / Vol. 75, No. 13. Retrieved on August 6, 2020 from [https://www.sec.gov/rules/concept/2010/34-61358fr.pdf](https://www.sec.gov/rules/concept/2010/34-61358fr.pdf) 
  
 U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
-
+</br>
 <h3>AT & HFT: Mandatory Readings</h3>
 <p>As you read through the articles below, consider how computerized trading has changed the trading landscape. 
 </p>
@@ -75,9 +75,5 @@ FINRA Staff. (2015, November 25). [Getting Up to Speed on High-Frequency Trading
 **Pages 4 - 11** of U.S. Securities and Exchange Commission. (2014, March 18). [Equity Market Structure Literature Review Part II: High Frequency Trading](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf). Retrieved on July 30, 2020 from https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf
 1. <h4>Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?</h4>
 Stiglitz, J. (2014, April 15).  [Tapping the Brakes: Are Less Active Markets Safer and Better for the Economy?](https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf) Retrieved on July 30, 2020 from https://www8.gsb.columbia.edu/faculty/jstiglitz/sites/jstiglitz/files/2014_Tapping_Brakes_pub.pdf
-
-</br></br>
-
-
 
 </br>

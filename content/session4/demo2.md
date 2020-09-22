@@ -59,7 +59,7 @@ Algorithmic trading encompasses a range of trading activities, one of which is h
 <a href="HFTinfographic_acc.pdf" target="_blank"><img style="width:600px;" class="" src="HFTinfographic.jpg" /></a>
 
 
-**References**
+**References** </br>
 U.S. Securities and Exchange Commission (SEC). (2014). Equity Market Structure Literature - Review Part II: High Frequency Trading. Retrieved on August 6, 2020 from [https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf](https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf)
 
 
