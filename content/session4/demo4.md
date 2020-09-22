@@ -52,3 +52,5 @@ subtitle = ""
 
 <h3>High-Frequency Trading - Dr. Riordan</h3>
 {{< video src="highfrequencytrade.mp4" controls="yes" >}}
+
+
