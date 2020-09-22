@@ -56,7 +56,7 @@ The computerization of the order flow that began in the early 1970s paved the wa
  
 Algorithmic trading encompasses a range of trading activities, one of which is high-frequency trading. Review the diagram below which depicts this relationship.
 
-<a href="HFTinfographic_acc.pdf" target="_blank"><img style="width:600px;" class="" src="HFTinfographic.jpg" /></a>
+<a href="HFTinfographic_acc.pdf" target="_blank"><img style="width:800px;" class="" src="HFTinfographic.jpg" /></a>
 
 
 **References** </br>
