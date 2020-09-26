@@ -1,14 +1,14 @@
 ---
-title: High Speed Trouble - Knight Capital (Case Study)
+title: ECN Millennials Case (Case Study)
 author: Smith School of Business, Queen's University 
-summary: This case study is worth 10% of your final grade and is due prior to the beginning of Session 6. Students are expected to deliver a written case study report. This assignment is to be completed individually. The final report must be emailed to ryan.riordan@queensu.ca.
+summary: This case study is worth 10% of your final grade and is due prior to the beginning of Session 4. Students are expected to deliver a written case study report. This assignment is to be completed individually. The final report must be emailed to ryan.riordan@queensu.ca.
 tags:
 - session4
 - casestudy
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/files/Knight_capital_case_s4.pdf"
+external_link: "https://web.prod.business.queensu.ca/LivingCase/login?returnUrl=/LivingCase/Nodes/Usage/430744/8506ae5a-0526-4b2f-a9e4-a90f421cfb96"
 
 image:
   caption: 

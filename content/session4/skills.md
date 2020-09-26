@@ -24,7 +24,7 @@ subtitle = ""
   icon = "comments"
   icon_pack = "fas"
   name = "Case"
-  description = "The [Knight Capital case study](#projects) is worth 10% of your final grade"  
+  description = "The [ECN Millennials Case](#projects) is worth 10% of your final grade"  
   
 
 
