@@ -13,7 +13,7 @@ subtitle = "Innovative Market Structures"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = "Innovative Market Structures"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#FFFFFF"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -57,10 +57,8 @@ At the end of this week, you will be able to:
 1. Compare the key features that distinguish dark markets from lit exchanges.
 1. Evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
  
-</br>
-<h2>Preview of Activities</h2>
-<a class="color:#323232" href="#projects"><h3 >Quiz</h3></a>
-This assessment will count towards your individual participation grade.
+</br></br>
+
 
 
 
