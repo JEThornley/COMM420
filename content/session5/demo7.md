@@ -65,4 +65,10 @@ subtitle = "Check Your Understanding"
 
 1. A dark market or a lit market? Why?
 1. In a market with speed bumps or without speed bumps? Why?
+
+<p>Q3: In your own words, explain why dark pools have been reported as a “haven for predatory high-frequency traders”. </p>
+
 </br></br>
+
+
+
