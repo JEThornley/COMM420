@@ -51,13 +51,6 @@ subtitle = ""
 +++
 
 
-At the end of this week, you will be able to: 
-1. Explain the advantages and disadvantages of speed bumps.
-1. Weigh the advantages and risks of dark liquidity.
-1. Compare the key features that distinguish dark markets from lit exchanges.
-1. Evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
- 
-</br></br>
 
 
 
