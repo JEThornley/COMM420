@@ -67,4 +67,5 @@ Markets. Retrieved on August 31, 2020 from [https://www.researchgate.net/publica
 
 <h3>Watch the following videos</h3>
 {{< youtube M6IoYrahQ24 >}}
+<p>&nbsp;</p>
 {{< youtube d8BcCLLX4N4 >}}
