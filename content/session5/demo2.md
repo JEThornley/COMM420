@@ -65,5 +65,6 @@ Markets. Retrieved on August 31, 2020 from [https://www.researchgate.net/publica
 1. Investment Industry Regulatory Organization of Canada (IIROC). (2018, January 28). Speed Segmentation on exchanges: competition for slow flow. Retrieved on August 21, 2020 from [https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf](https://www.iiroc.ca/Documents/2018/25d5b306-3420-43cc-b260-a1527b82bfc3_en.pdf)
 1. Osipovich, A. (2019, July 29). More Exchanges Add ‘Speed Bumps,’ Defying High-Frequency Traders. The Wall Street Journal. Retrieved on August 31, 2020 from [https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611](https://www.wsj.com/articles/more-exchanges-add-speed-bumps-defying-high-frequency-traders-11564401611)
 
-<h3>Watch the following video</h3>
+<h3>Watch the following videos</h3>
 {{< youtube M6IoYrahQ24 >}}
+{{< youtube d8BcCLLX4N4 >}}
