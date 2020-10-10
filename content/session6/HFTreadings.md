@@ -24,7 +24,8 @@ subtitle = "Please review the following material"
   [[content.filter_button]]
    name = "HFT"
    tag = "HFTs6"
-  
+   
+  [[content.filter_button]]  
    name = "Rogue Trader"
    tag = "RTs6"
 
