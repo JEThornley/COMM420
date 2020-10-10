@@ -3,7 +3,7 @@ title: Knight Capital Case
 author: Smith School of Business, Queen's University 
 summary: This case study is worth 10% of your final grade and is due Oct 16, 2020 at 11:59 PM. Students are expected to deliver a written case study report. This assignment is to be completed individually. The final report must be submitted on D2L
 tags:
-- session6
+- session6dev
 - casestudy
 date: "2020-10-16T00:00:00Z"
 
