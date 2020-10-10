@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Group Presentation(s)"
+  name = "Group Presentations"
   description = "The assigned group(s) will present their case findings"    
 
 
