@@ -5,7 +5,7 @@ summary: For a price, high-speed traders can plug into a stock market’s backbo
 tags:
 - session6
 - s6hft
-date: "2016-03-08T00:00:00Z"
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://smith.queensu.ca/insight/content/paying_for_speed_are_traders_wasting_money.php"
