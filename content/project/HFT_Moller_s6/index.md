@@ -1,7 +1,7 @@
 ---
 title: Robot Auction Bidders Are Such Buzzkills
 author: Kenza Moller
-summary: Competing against automated agents induces auction bidders to skip risky behaviour </br>Oct 21, 2015
+summary: Competing against automated agents induces auction bidders to skip risky behaviour. </br><i>Oct 21, 2015, Kenza Moller</i>
  
 tags:
 - session6

@@ -1,7 +1,7 @@
 ---
 title: FCA researchers outline $5bn ‘tax’ imposed by high-speed trading
 author: Philip Stafford
-summary: Paper released by UK regulators homes in on tactic known as latency arbitrage</br>Jan 27, 2020. 
+summary: Paper released by UK regulators homes in on tactic known as latency arbitrage.</br><i>Jan 27, 2020, Philip Stafford</i> 
 tags:
 - session6
 - HFTs6

@@ -1,7 +1,7 @@
 ---
 title: Flash Crash — the trading savant who crashed the US stock market
 author: Katie Martin
-summary: Liam Vaughan’s account of maths prodigy Navinder Sarao is a cautionary tale on modern finance</br>May 7, 2020. 
+summary: Liam Vaughan’s account of maths prodigy Navinder Sarao is a cautionary tale on modern finance.</br><i>May 7, 2020, Katie Martin </i>
 tags:
 - session6
 - RTs6
