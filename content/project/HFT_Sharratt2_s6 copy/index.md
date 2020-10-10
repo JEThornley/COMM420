@@ -1,5 +1,5 @@
 ---
-title: Paying for Speed: Are Traders Wasting Money?
+title: Paying for Speed- Are Traders Wasting Money?
 author: Anna Sharratt 
 summary: For a price, high-speed traders can plug into a stock market’s backbone. Unfair advantage or fair exchange? </br><i>Mar 8, 2016, Anna Sharratt</i>
 
