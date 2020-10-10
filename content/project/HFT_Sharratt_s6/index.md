@@ -1,13 +1,10 @@
 ---
 title: Paying for Speed: Are Traders Wasting Money?
 author: Anna Sharratt 
-summary: For a price, high-speed traders can plug into a stock market’s backbone. Unfair advantage or fair exchange? Mar 8, 2016
-
+summary: For a price, high-speed traders can plug into a stock market’s backbone. Unfair advantage or fair exchange? Mar 8, 2016. 
 tags:
 - session6
-- HFTs6
-- reading
-
+- s6hft
 date: "2016-03-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
