@@ -63,7 +63,14 @@ date_format = "January 2, 2006"
   date_end = "2020-10-10"
   description = "We'll explore speed bumps, dark markets and the current discourse of each. </br></br> *Deliverable: quiz*"
   
-
+  [[item]]
+  organization = "Session 6"
+  organization_url = ""
+  title = "Digital Capital Markets Wrap-Up"
+  url = "session6/"
+  date_start = "2020-10-11"
+  date_end = "2020-10-17"
+  description = "We'll delve into some digital capital markets topics a little further before moving on to investing next week. </br></br> *Deliverables: Knight Capital Case, quiz *"
   
 
 
