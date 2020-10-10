@@ -1,11 +1,13 @@
 ---
 title: Making Sense of the Fast — and the Furious
 author: Anna Sharratt 
-summary: Is high-frequency trading the most evil finance scheme ever conceived? Ryan Riordan crunches some hard-to-access data and comes away with a reassuring tale </br>Sep 23, 2014 
+summary: Is high-frequency trading the most evil finance scheme ever conceived? Ryan Riordan crunches some hard-to-access data and comes away with a reassuring tale (Sep 23, 2014)
+
 tags:
 - session6
 - HFTs6
 - reading
+
 date: "2014-09-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
