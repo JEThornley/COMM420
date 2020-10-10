@@ -1,11 +1,11 @@
 ---
 title: Paying for Speed: Are Traders Wasting Money?
 author: Anna Sharratt 
-summary: For a price, high-speed traders can plug into a stock market’s backbone. Unfair advantage or fair exchange? Mar 8, 2016. 
+summary: This quiz will count towards your individual participation grade. Ensure you have completed all mandatory readings before starting the quiz (they will be tested). Only entries submitted prior to the beginning of next class will be accepted. Please note that these quizzes are being assessed on a participation basis only; full marks will be given to those that complete the quiz (scores will not affect the participation grade). 
 tags:
-- session6
-- s6hft
-date: "2016-04-27T00:00:00Z"
+- session4
+- quiz
+date: "2016-03-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://smith.queensu.ca/insight/content/paying_for_speed_are_traders_wasting_money.php"
