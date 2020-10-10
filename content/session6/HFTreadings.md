@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Readings and Videos"
-subtitle = "Please review the following material"
+title = "Articles and Videos"
+subtitle = "Please review the following material."
 
 [content]
   # Page type to display. E.g. project.
@@ -22,12 +22,12 @@ subtitle = "Please review the following material"
   filter_default = 0
   
   [[content.filter_button]]
-   name = "HFT"
+   name = "High Frequency Trading"
    tag = "HFTs6"
    
   [[content.filter_button]]  
-   name = "Rogue Trader"
-   tag = "RTs6"
+   name = "Flash Crash"
+   tag = "FCs6"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -41,7 +41,7 @@ subtitle = "Please review the following material"
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -1,15 +1,15 @@
 ---
-title: Flash Crash — the trading savant who crashed the US stock market
-author: Katie Martin
-summary: Liam Vaughan’s account of maths prodigy Navinder Sarao is a cautionary tale on modern finance.</br><i>May 7, 2020, Katie Martin </i>
+title: 2010 Flash Crash
+author: Various
+summary: The May 6, 2010 flash crash was a United States trillion-dollar stock market crash, which started at 2:32 p.m. EDT and lasted for approximately 36 minutes.</br><i>Sep 26, 2020, Various Authors </i>
 tags:
 - session6
-- RTs6
+- FCs6
 - reading
-date: "2020-05-07T00:00:00Z"
+date: "2020-09-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.ft.com/content/5ca93932-8de7-11ea-a8ec-961a33ba80aa"
+external_link: "https://en.wikipedia.org/wiki/2010_flash_crash"
 
 image:
   caption: 
