@@ -1,10 +1,13 @@
 ---
-title: Session 4 Quiz
-author: Smith School of Business, Queen's University 
-summary: This quiz will count towards your individual participation grade. Ensure you have completed all mandatory readings before starting the quiz (they will be tested). Only entries submitted prior to the beginning of next class will be accepted. Please note that these quizzes are being assessed on a participation basis only; full marks will be given to those that complete the quiz (scores will not affect the participation grade). 
+title: Paying for Speed: Are Traders Wasting Money?
+author: Anna Sharratt 
+summary: For a price, high-speed traders can plug into a stock market’s backbone. Unfair advantage or fair exchange? </br><i>Mar 08, 2016, Anna Sharratt</i>
+
 tags:
-- session4
-- quiz
+- session6
+- HFTs6
+- reading
+
 date: "2016-03-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
