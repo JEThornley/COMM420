@@ -1,15 +1,15 @@
 ---
-title: Money & Speed- Inside the Black Box (Optional)
-author: VPRO
-summary: Optional (long, but worth watching if you have time) - Based on interviews with those directly involved and data visualizations up to the millisecond, it reconstructs the flash crash of May 6th 2010.</br><i>Dec 13, 2012, VPRO </i>
+title: Dark Pool Trading System & Regulation
+author: CFA Institute
+summary: The effective regulation of “dark pools”, which are private forums for trading securities, is necessary to secure efficient trade execution, and to ensure transparent and fair markets as a means of fostering confidence and trust in trading markets.</br><i>n.d., CFA Institute</i> 
 tags:
 - session6
-- FCs6
+- DPs6
 - reading
-date: "2012-12-13T00:00:00Z"
+date: "2020-09-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=aq1Ln1UCoEU&vl=en"
+external_link: "https://www.cfainstitute.org/en/advocacy/issues/dark-pools"
 
 image:
   caption: 

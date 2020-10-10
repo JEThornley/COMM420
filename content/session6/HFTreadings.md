@@ -22,12 +22,20 @@ subtitle = "Please review the following material."
   filter_default = 0
   
   [[content.filter_button]]
-   name = "High Frequency Trading"
+   name = "High-Frequency Trading"
    tag = "HFTs6"
    
   [[content.filter_button]]  
    name = "Flash Crash"
    tag = "FCs6"
+
+  [[content.filter_button]]  
+   name = "Speed Bumps"
+   tag = "SBs6"
+   
+  [[content.filter_button]]  
+   name = "Dark Pools"
+   tag = "DPs6"   
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

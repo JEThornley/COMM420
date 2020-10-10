@@ -1,15 +1,15 @@
 ---
-title: Money & Speed- Inside the Black Box (Optional)
-author: VPRO
-summary: Optional (long, but worth watching if you have time) - Based on interviews with those directly involved and data visualizations up to the millisecond, it reconstructs the flash crash of May 6th 2010.</br><i>Dec 13, 2012, VPRO </i>
+title: Dark Side of Delaying Order Execution
+author: Jun Aoyagi
+summary: High-frequency trading (HFT) firms provide and take liquidity using speed and superior information.</br><i>Sep 30, 2020, Jun Aoyagi</i> 
 tags:
 - session6
-- FCs6
+- SBs6
 - reading
-date: "2012-12-13T00:00:00Z"
+date: "2020-09-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=aq1Ln1UCoEU&vl=en"
+external_link: "https://haas.berkeley.edu/wp-content/uploads/Jun-Aoyagi-Slides.pdf"
 
 image:
   caption: 
