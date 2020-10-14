@@ -8,7 +8,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://web.prod.business.queensu.ca/LivingCase/login?returnUrl=/LivingCase/Nodes/Usage/430744/8506ae5a-0526-4b2f-a9e4-a90f421cfb96"
+external_link: "https://web.prod.business.queensu.ca/LivingCase/Nodes/Usage/430744/3ffd542c-0696-45ee-bcda-f7f0274f0948"
 
 image:
   caption: 
