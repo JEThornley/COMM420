@@ -70,7 +70,7 @@ date_format = "January 2, 2006"
   url = "session6/"
   date_start = "2020-10-11"
   date_end = "2020-10-17"
-  description = "We'll delve into some digital capital markets topics a little further before moving on to investing next week. </br></br> *Deliverables: Knight Capital Case, quiz*"
+  description = "We'll delve into some digital capital markets topics a little further before moving on to investing next week. </br></br> *Deliverable: quiz*"
   
 
 
