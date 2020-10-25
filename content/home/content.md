@@ -72,6 +72,24 @@ date_format = "January 2, 2006"
   date_end = "2020-10-17"
   description = "We'll delve into some digital capital markets topics a little further before moving on to investing next week. </br></br> *Deliverable: quiz*"
   
+    [[item]]
+  organization = "Session 7"
+  organization_url = ""
+  title = "Content Review"
+  url = "session7/"
+  date_start = "2020-10-18"
+  date_end = "2020-10-24"
+  description = " *Deliverables: none*"
+  
+    [[item]]
+  organization = "Session 8"
+  organization_url = ""
+  title = "Investing and Portfolio Management + Factor Investing"
+  url = "session8/"
+  date_start = "2020-10-25"
+  date_end = "2020-10-31"
+  description = "We'll explore risk and return, different portfolio management styles and factor investing. </br></br> *Deliverable: quiz*"
+  
 
 
 +++
