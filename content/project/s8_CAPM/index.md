@@ -1,7 +1,7 @@
 ---
-title: The Capital Asset Pricing Model: Theory and Evidence
+title: The Capital Asset Pricing Model - Theory and Evidence
 author: Eugene F. Fama and Kenneth R. French
-summary: Read pages 25 - 30. </br>Key topics: CAPM </br><i>2004, Eugene Fama and Kenneth French</i> 
+summary: Read pages 25 - 30. </br>Key topics - CAPM </br><i>2004, Eugene Fama and Kenneth French</i> 
 tags:
 - readings8
 - reading

@@ -1,7 +1,7 @@
 ---
-title: Chapter 19: Performance Evaluation
+title: Chapter 19 - Performance Evaluation
 author: Andrew Clare, CFA Institute
-summary: Read pages 176 - 188; review the examples, but you may skip over the exhibits. </br>Key topics: risk and return, expected return, market risk, Sharpe ratio </br><i>2014, Andrew Clare</i> 
+summary: Read pages 176 - 188; review the examples, but you may skip over the exhibits. </br>Key topics - risk and return, expected return, market risk, Sharpe ratio </br><i>2014, Andrew Clare</i> 
 tags:
 - readings8
 - reading
