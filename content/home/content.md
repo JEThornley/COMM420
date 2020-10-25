@@ -88,7 +88,7 @@ date_format = "January 2, 2006"
   url = "session8/"
   date_start = "2020-10-25"
   date_end = "2020-10-31"
-  description = "We'll explore risk and return, different portfolio management styles and factor investing. </br></br> *Deliverable: quiz*"
+  description = "We'll explore risk and return, portfolio management strategies and factor investing. </br></br> *Deliverable: quiz*"
   
 
 
