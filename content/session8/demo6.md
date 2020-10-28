@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Expected Return"
+title = "Quantitative Investing"
 subtitle = "Dr. Riordan"
 
 [design]
@@ -51,5 +51,5 @@ subtitle = "Dr. Riordan"
 +++
 
 
-{{< video src="ExpectedReturn_comp.mp4" controls="yes" >}}
+{{< video src="QuantitativeInvesting_comp.mp4" controls="yes" >}}
 

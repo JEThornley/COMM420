@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Expected Return"
+title = "Capital Asset Pricing Model (CAPM)"
 subtitle = "Dr. Riordan"
 
 [design]
@@ -51,5 +51,5 @@ subtitle = "Dr. Riordan"
 +++
 
 
-{{< video src="ExpectedReturn_comp.mp4" controls="yes" >}}
+{{< video src="CAPM_Beta_comp.mp4" controls="yes" >}}
 

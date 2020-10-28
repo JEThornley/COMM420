@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Saving vs. Investing"
-subtitle = ""
+subtitle = "Dr. Riordan"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3>Saving vs. Investing - Dr. Riordan</h3>
+
 {{< video src="SavingversusInvesting_comp.mp4" controls="yes" >}}
 
