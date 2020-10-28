@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = ""
-subtitle = ""
+subtitle = "Please review the following material."
 
 [content]
   # Page type to display. E.g. project.
