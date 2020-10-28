@@ -3,7 +3,7 @@ title: Modern Portfolio Theory and Investment Analysis, 9e - Chapter 16
 author: Elton, Gruber & Brown
 summary: Read pages 385 - 394. </br>Key topics - passive/active investing, factor investing, statistical models </br><i>2014, Edwin Elton, Stephen Brown, William Goetzmann & Martin Gruber</i> 
 tags:
-- readings8
+- readings8FI
 - reading
 date: "2020-01-27T00:00:00Z"
 

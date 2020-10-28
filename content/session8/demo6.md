@@ -22,7 +22,7 @@ subtitle = "Dr. Riordan"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#ffffff"
+  color = "#f1f5fd"
   
   # Background gradient.
   # gradient_start = "DarkGreen"

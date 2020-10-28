@@ -47,7 +47,7 @@ subtitle = "Please review the following material."
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "#f1f5fd"
+   color = "#ffffff"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
