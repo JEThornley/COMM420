@@ -1,5 +1,5 @@
 ---
-title: The Economics of Complex Decision Making: The Emergence of the Robo Adviser
+title: The Economics of Complex Decision Making - The Emergence of the Robo Adviser
 author: Fisch, Laboure & Turner
 summary: Please review the full text. </br><i>2017, Fisch, Laboure & Turner</i> 
 tags:
