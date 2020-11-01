@@ -52,5 +52,5 @@ subtitle = "Dr. Riordan"
 
 
 {{< video src="WealthTech_comp.mp4" controls="yes" >}}
-<a href="us-future-of-wealth-management-revisited-winter-2020.pdf" target="_blank"><img style="width:800px;" class="" src="us-future-of-wealth-management-revisited-winter-2020-fig6.jpg" /></a>
+<a href="us-future-of-wealth-management-revisited-winter-2020.pdf" target="_blank"><img style="width:800px;" class="" src="us-future-of-wealth-management-revisited-winter-2020-fig6.jp2" /></a>
 
