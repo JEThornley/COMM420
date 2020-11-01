@@ -54,4 +54,4 @@ subtitle = "Dr. Riordan"
 {{< video src="WealthTech_comp.mp4" controls="yes" >}}
 <p>&nbsp;</p>
 <a href="us-future-of-wealth-management-revisited-winter-2020.pdf" target="_blank"><img style="width:800px;" class="" src="us-future-of-wealth-management-revisited-winter-2020-fig6.jpg" /></a>
-
+</br><i>Figure 6 from Deloitte, 2020, The future of wealth management revisited, pg. 16, retrieved on October 28, 2020 from <a href="https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-future-of-wealth-management-revisited-winter-2020.pdf" target="_blank">https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-future-of-wealth-management-revisited-winter-2020.pdf</a> </i>
