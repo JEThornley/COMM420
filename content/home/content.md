@@ -90,7 +90,14 @@ date_format = "January 2, 2006"
   date_end = "2020-10-31"
   description = "We'll explore risk and return, portfolio management strategies and factor investing. </br></br> *Deliverable: quiz*"
   
-
+    [[item]]
+  organization = "Session 9"
+  organization_url = ""
+  title = "Wealth-Tech and RoboAdvice"
+  url = "session9/"
+  date_start = "2020-11-01"
+  date_end = "2020-11-07"
+  description = "We'll explore recent developments in WealthTech, including the emergence, mechanics and offerings of robo-advisors. </br></br> *Deliverable: quiz*"
 
 +++
 
