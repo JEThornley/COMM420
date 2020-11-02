@@ -1,14 +1,14 @@
 ---
 title: Session 9 Quiz
 author: Smith School of Business, Queen's University 
-summary: <i>Quiz coming soon.</i>  
+summary: This quiz will count towards your individual participation grade. Ensure you have completed all mandatory readings before starting the quiz (they will be tested). Only entries submitted prior to the beginning of next class will be accepted. Please note that these quizzes are being assessed on a participation basis only; full marks will be given to those that complete the quiz (scores will not affect the participation grade).   
 tags:
 - session9dev
 - quiz
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://forms.gle/kC36Z3iFJ2giGmvdA"
 
 image:
   caption: 
