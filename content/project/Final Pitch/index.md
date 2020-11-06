@@ -1,7 +1,7 @@
 ---
 title: Final Pitch
 author: Smith School of Business, Queen's University 
-summary: This assignment is due Dec 4, 2020 at 11:59 PM. This assignment is worth 30% of your final grade and is to be completed in groups. The final report must be submitted on D2L.
+summary: <a href="https://smithlearning.ca/d2l/le/content/430744/viewContent/2668267/View" style="text-decoration:>- none;" target="_blank">This assignment is due Dec 4, 2020 at 11:59 PM. This assignment is worth 30% of your final grade and is to be completed in groups. The final report must be submitted on D2L.</a>
 tags:
 - finalpitch
 date: "2016-04-27T00:00:00Z"
