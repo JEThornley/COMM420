@@ -1,7 +1,7 @@
 ---
 title: Robo-Advisors (Case Study)
 author: Smith School of Business, Queen's University 
-summary: This case study is due Nov 27, 2020 at 11:59 PM. Students are expected to deliver a written case study report. This assignment is to be completed individually. The final report must be submitted on D2L.
+summary: <a href="https://smithlearning.ca/d2l/le/content/430744/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-2560580" target="_blank">This case study is due Nov 27, 2020 at 11:59 PM. Students are expected to deliver a written case study report. This assignment is to be completed individually. The final report must be submitted on D2L.</a>
 tags:
 - casestudy
 date: "2016-04-27T00:00:00Z"
