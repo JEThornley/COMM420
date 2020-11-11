@@ -1,5 +1,5 @@
 ---
-title: Session 1: Introduction to Course
+title: Session 1 - Introduction to Course
 author: Smith School of Business, Queen's University 
 summary: Welcome to MFIN841!
 tags:
