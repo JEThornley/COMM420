@@ -20,13 +20,13 @@ subtitle = ""
   name = "Quiz"
   description = "[This assessment](#projects) will count towards your individual participation grade"
   
-#[[feature]]
+[[feature]]
  icon = "comments"
  icon_pack = "fas"
  name = "Case"
   description = "The [Robinhood Case](#projects) is due this week"  
 
-#[[feature]]
+[[feature]]
  icon = "users"
   icon_pack = "fas"
   name = "Group Presentations"
