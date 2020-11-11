@@ -106,7 +106,7 @@ date_format = "January 2, 2006"
   url = "session10/"
   date_start = "2020-11-08"
   date_end = "2020-11-14"
-  description = "What exactly is money and how is its value determined? We'll explore money, the traditional payments system and recent developments in blockchain technology, including the emergence of Bitcoin and other new business models in decentralized finance. </br></br> *Deliverables: quiz, Robinhood case study*"
+  description = "What is money and how is its value determined? We'll explore money, the traditional payments system and various developments in blockchain technology, including the emergence of digital currencies and other new business models in decentralized finance. </br></br> *Deliverables: quiz, Robinhood case study*"
 
 +++
 
