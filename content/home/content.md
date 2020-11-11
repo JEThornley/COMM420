@@ -98,6 +98,15 @@ date_format = "January 2, 2006"
   date_start = "2020-11-01"
   date_end = "2020-11-07"
   description = "We'll explore recent developments in WealthTech, including the emergence, mechanics and offerings of robo-advisors. </br></br> *Deliverable: quiz*"
+  
+    [[item]]
+  organization = "Session 10"
+  organization_url = ""
+  title = "Digital Assets and Blockchain"
+  url = "session10/"
+  date_start = "2020-11-08"
+  date_end = "2020-11-14"
+  description = "What exactly is money and how is its value determined? We'll explore money, the traditional payments system and recent developments in blockchain technology, including the emergence of Bitcoin and other new business models in decentralized finance. </br></br> *Deliverables: quiz, Robinhood case study*"
 
 +++
 

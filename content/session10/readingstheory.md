@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 41  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 80  # Order that this section will appear.
 
-title = "Course Content"
-subtitle = ""
+title = "Theory and Empirics"
+subtitle = "These readings are optional and will not be tested, but they provide excellent background for the topics discussed this week."
 
 [content]
   # Page type to display. E.g. project.
@@ -22,29 +22,20 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-   name = "Course Introduction"
-   tag = "Intro"
+   name = "All"
+   tag = "readings10theory"
    
-  [[content.filter_button]]  
-   name = "Part 1: Digital Capital Markets"
-   tag = "Part1"
-
-  [[content.filter_button]]  
-   name = "Part 2: Digital Investing"
-   tag = "Part2"
-   
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
@@ -56,7 +47,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "#f1f5fd"
+   color = "#ffffff"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
