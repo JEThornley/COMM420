@@ -1,5 +1,5 @@
 ---
-title: Blockchain disruption and decentralized finance: The rise of decentralized business models
+title: Blockchain disruption and decentralized finance - The rise of decentralized business models
 author: Yan Chen & Cristiano Bellavitis
 summary: Blockchain technology can reduce transaction costs, generate distributed trust, and empower decentralized platforms, potentially becoming a new foundation for decentralized business models.</br><i>June 2020, Yan Chen & Cristiano Bellavitis </i>
 tags:
