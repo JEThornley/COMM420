@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Central Counterparty - CCP ... in simple terms"
-subtitle = "Deutsche Börse Group & explainity.com"
+title = "How China's New Cryptocurrency Could Challenge Facebook's Libra"
+subtitle = "Wall Street Journal"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +22,7 @@ subtitle = "Deutsche Börse Group & explainity.com"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#ffffff"
+  color = "#f1f5fd"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -51,4 +51,6 @@ subtitle = "Deutsche Börse Group & explainity.com"
 +++
 
 
-{{< youtube v=o-Yxjs33aQs >}}
+{{< youtube v=XvJnTQjdC-E >}}
+
+

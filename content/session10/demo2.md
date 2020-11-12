@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Financial Services: AI for Genuine Insights"
-subtitle = "Ulku Rowe, Technical Director, Financial Services, Google Cloud"
+title = "Digital currencies: how do they work and what makes them different?"
+subtitle = "Bank of England, Dan Nixon & Robleh Ali"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,5 +51,5 @@ subtitle = "Ulku Rowe, Technical Director, Financial Services, Google Cloud"
 +++
 
 
-{{< youtube IUdENLaO58w >}}
+{{< youtube CxDKE_gQX_M >}}
 
