@@ -51,6 +51,6 @@ subtitle = "Wall Street Journal"
 +++
 
 
-{{< youtube v=XvJnTQjdC-E >}}
+{{< youtube XvJnTQjdC-E >}}
 
 

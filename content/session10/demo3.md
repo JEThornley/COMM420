@@ -50,5 +50,4 @@ subtitle = "Deutsche Börse Group & explainity.com"
  css_class = ""
 +++
 
-
-{{< youtube v=o-Yxjs33aQs >}}
+{{< youtube o-Yxjs33aQs >}}
