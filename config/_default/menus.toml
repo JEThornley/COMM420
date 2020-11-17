@@ -84,6 +84,12 @@
                         url = "session10/"
                         weight = 140
 
+                        [[main]]
+                          name = "Session 11"
+                          parent = "content-parent"
+                          url = "session11/"
+                          weight = 150
+
 #[[main]]
 #  name = "Publications"
 #  url = "#featured"
