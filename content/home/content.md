@@ -107,6 +107,15 @@ date_format = "January 2, 2006"
   date_start = "2020-11-08"
   date_end = "2020-11-14"
   description = "What is money and how is its value determined? We'll explore money, the traditional payments system and various developments in blockchain technology, including the emergence of digital currencies and other new business models in decentralized finance. </br></br> *Deliverables: quiz, Robinhood case study*"
+  
+      [[item]]
+  organization = "Session 11"
+  organization_url = ""
+  title = "Big Data and Machine Learning"
+  url = "session11/"
+  date_start = "2020-11-15"
+  date_end = "2020-11-21"
+  description = "We'll explore the features and methods of big data and machine learning, as well as their current and anticipated impacts on investing. </br></br> *Deliverables: quiz*"
 
 +++
 
