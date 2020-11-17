@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Top Quants on Big Data and Disruption (6;45-16;15 only)"
-subtitle = "Bloomberg, Sandy Rattray & Heidi Ridley of Man Group - please watch the segment from 6;45-16;15"
+subtitle = "Bloomberg, Sandy Rattray and Heidi Ridley of Man Group - please watch the segment from 6;45-16;15"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,6 +51,6 @@ subtitle = "Bloomberg, Sandy Rattray & Heidi Ridley of Man Group - please watch 
 +++
 
 
-{{< youtube Jytwt0ITDfg&feature=youtu.be&t=404 >}}
+{{< youtube Jytwt0ITDfg >}}
 
 
